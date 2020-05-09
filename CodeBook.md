@@ -1,11 +1,3 @@
----
-title: "Code Book"
-author: "Masaab AlKhalaf"
-date: "5/10/2020"
-output: html_document
----
-
-
 Cource Data: 
 
 I hava strated the Project by downloading the data form the below link by hand:
@@ -22,12 +14,12 @@ Then svae it into my working directory, unzipped the file and start loading the 
 
 ## At the final stage activity column has 6 types listed below 
 
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
  
  
 ## Examples of the measurements :
