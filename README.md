@@ -2,7 +2,10 @@
 
 ## Getting and Cleaning Data Course Project
 
-# For this priject Repo I have created totla of four file :
+## Data description
+The variables in the data X are sensor signals measured with waist-mounted smartphone from 30 subjects. The variable in the data Y indicates activity type the subjects performed during recording.
+
+# For this Project Repo I have created totla of four file :
 
 1. CodeBook.md
 2. README.md
